@@ -1,3 +1,0 @@
-C:/Users/ahmed sayed/Desktop/P2/cmake-build-debug/CMakeFiles/P2.dir
-C:/Users/ahmed sayed/Desktop/P2/cmake-build-debug/CMakeFiles/edit_cache.dir
-C:/Users/ahmed sayed/Desktop/P2/cmake-build-debug/CMakeFiles/rebuild_cache.dir
